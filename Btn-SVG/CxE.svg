@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="3.0039562"
-     inkscape:cx="105.69395"
-     inkscape:cy="81.725558"
-     inkscape:window-width="2400"
-     inkscape:window-height="1271"
+     inkscape:cx="105.5275"
+     inkscape:cy="81.725559"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
      inkscape:window-x="-9"
-     inkscape:window-y="-1"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -48,7 +48,7 @@
      id="layer1"
      transform="translate(-121.46085,-119.90213)">
     <rect
-       style="fill:#7cdaf9;fill-opacity:1;stroke:none;stroke-width:4.99997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#6fc9ed;fill-opacity:1;stroke:none;stroke-width:4.99997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
        id="rect2987-7"
        width="60"
        height="30"
@@ -68,7 +68,7 @@
          x="147.19919"
          y="138.63753">C x E</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#7cdaf9;stroke-width:1;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#6fc9ed;stroke-width:1;stroke-opacity:1"
        id="rect2987-7-8"
        width="64"
        height="34.000004"

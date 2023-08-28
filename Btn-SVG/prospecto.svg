@@ -25,11 +25,11 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.5019781"
-     inkscape:cx="152.4656"
-     inkscape:cy="85.553843"
+     inkscape:cx="87.884104"
+     inkscape:cy="86.219633"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
-     inkscape:window-x="2391"
+     inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -41,7 +41,7 @@
      id="layer1"
      transform="translate(-48.532028,-108.98042)">
     <rect
-       style="fill:#ff7a00;fill-opacity:1;stroke:none;stroke-width:4.99997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#fbff10;fill-opacity:1;stroke:none;stroke-width:4.99997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
        id="rect2987-7"
        width="60"
        height="30"
@@ -61,7 +61,7 @@
          x="61.666714"
          y="127.79673">PROSPECTO</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#ff7a00;stroke-width:1;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#fbff10;stroke-width:1;stroke-opacity:1"
        id="rect2987-7-8"
        width="64"
        height="34.000004"

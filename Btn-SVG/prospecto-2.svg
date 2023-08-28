@@ -6,15 +6,15 @@
    height="35.000004mm"
    viewBox="0 0 65 35.000004"
    version="1.1"
-   id="svg12780"
+   id="svg8971"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="ExC.svg"
+   sodipodi:docname="prospecto.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview12782"
+     id="namedview8973"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.0039562"
-     inkscape:cx="89.215682"
-     inkscape:cy="69.408469"
+     inkscape:zoom="1.5019781"
+     inkscape:cx="87.884104"
+     inkscape:cy="86.219633"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -34,39 +34,39 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs12777" />
+     id="defs8968" />
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-36.905693,-94.887901)">
+     transform="translate(-48.532028,-108.98042)">
     <rect
-       style="fill:#89009e;fill-opacity:1;stroke:none;stroke-width:4.99997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#eff217;fill-opacity:1;stroke:none;stroke-width:4.99997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
        id="rect2987-7"
        width="60"
        height="30"
-       x="39.405693"
-       y="97.387901"
+       x="51.032028"
+       y="111.48042"
        ry="4.5" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-       x="61.92485"
-       y="113.81215"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="61.666714"
+       y="127.79673"
        id="text4653"
        transform="scale(0.99245042,1.007607)"><tspan
          sodipodi:role="line"
          id="tspan4651"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="61.92485"
-         y="113.81215">E x C</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="61.666714"
+         y="127.79673">PROSPECTO</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#89009e;stroke-width:1;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#eff217;stroke-width:1;stroke-opacity:1"
        id="rect2987-7-8"
        width="64"
        height="34.000004"
-       x="37.405693"
-       y="95.387901"
+       x="49.032028"
+       y="109.48042"
        ry="3.5172412" />
   </g>
 </svg>
