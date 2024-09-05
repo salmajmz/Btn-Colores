@@ -8,7 +8,7 @@
    version="1.1"
    id="svg17687"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="entregado.svg"
+   sodipodi:docname="entrega_anticipada.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0620589"
-     inkscape:cx="371.44833"
-     inkscape:cy="169.01134"
+     inkscape:cx="212.32344"
+     inkscape:cy="169.95291"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -48,7 +48,7 @@
      id="layer1"
      transform="translate(-105.46639,-179.4901)">
     <rect
-       style="fill:#fa853f;fill-opacity:1;stroke:none;stroke-width:4.99997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff2ba1;fill-opacity:1;stroke:none;stroke-width:4.99997;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
        id="rect2987-7"
        width="60"
        height="30"
@@ -73,7 +73,7 @@
          y="201.7444"
          id="tspan345">ANTICIPADA</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#fa853f;stroke-width:1;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff2ba1;stroke-width:1;stroke-opacity:1"
        id="rect2987-7-8"
        width="64"
        height="34.000004"
